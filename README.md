@@ -139,18 +139,8 @@ This mode captures and reads printed text from surroundings.
 
 ---
 
-# 📂 Project Structure
 
-```text
-BlindGuide/
-│
-├── BlindGuide.py
-├── README.md
-├── requirements.txt
-└── assets/
-```
 
----
 
 #  Hardware Requirements
 
